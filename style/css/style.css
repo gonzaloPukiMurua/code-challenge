@@ -15,7 +15,7 @@ nav.navbar {
   min-height: 70px;
   height: auto; }
 
-.card {
+div.card {
   min-width: 325px;
   width: auto;
   min-height: 540px;
