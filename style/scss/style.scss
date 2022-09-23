@@ -2,10 +2,12 @@
 @import "base/typography.scss";
 @import "base/variables.scss";
 @import "base/mixins";
+@import "layouts/container";
+@import "layouts/footer";
+@import "layouts/header";
 @import "components/buttons";
 @import "components/forms";
 @import "components/gallery";
 @import "components/navigation";
-@import "layouts/container";
-@import "layouts/footer";
-@import "layouts/header";
+@import "components/card";
+

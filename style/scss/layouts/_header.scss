@@ -1,11 +1,4 @@
 header.header{
-    min-height: 500px;
-    height: auto;
-    max-height: 80vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
-    padding: 1rem;
+    
     @include backgroundColor;
 }
